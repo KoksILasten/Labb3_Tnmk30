@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" \>
+    <title>Labb 3 Form</title>
+    <link href="lab3styles.css" media="screen" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="topnav">
+      <ul id="headermenu">
+        <li>
+          <a type="button" onclick="changeColor()">background color</a>
+        </li>
+        <li><a href="qwe.html">Minimoog</a></li>
+        <li><a href="Lek3.html">Counter</a></li>
+	<li><a href="Lab3Main.php">Blog</a></li>
+	<li><a href="Submit.php">Blog Post</a></li>
+      </ul>
+    </div>
